@@ -1,7 +1,7 @@
-package Lesson4_Library.Classes;
+package Lesson4_Library_29_11.Classes;
 
-import Lesson4_Library.Enums.Genre;
-import Lesson4_Library.Interfaces.Searchable;
+import Lesson4_Library_29_11.Enums.Genre;
+import Lesson4_Library_29_11.Interfaces.Searchable;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package Lesson4_Library.Interfaces;
+package Lesson4_Library_29_11.Interfaces;
 
-import Lesson4_Library.Classes.LibraryItem;
-import Lesson4_Library.Enums.Genre;
+import Lesson4_Library_29_11.Classes.LibraryItem;
+import Lesson4_Library_29_11.Enums.Genre;
 
 import java.util.List;
 

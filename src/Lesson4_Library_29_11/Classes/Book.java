@@ -1,10 +1,10 @@
-package Lesson4_Library.Classes;
+package Lesson4_Library_29_11.Classes;
 
-import Lesson4_Library.Enums.BookStatus;
-import Lesson4_Library.Enums.Genre;
-import Lesson4_Library.Enums.ItemCondition;
-import Lesson4_Library.Interfaces.Borrowable;
-import Lesson4_Library.Interfaces.Maintainable;
+import Lesson4_Library_29_11.Enums.BookStatus;
+import Lesson4_Library_29_11.Enums.Genre;
+import Lesson4_Library_29_11.Enums.ItemCondition;
+import Lesson4_Library_29_11.Interfaces.Borrowable;
+import Lesson4_Library_29_11.Interfaces.Maintainable;
 
 import java.time.LocalDate;
 

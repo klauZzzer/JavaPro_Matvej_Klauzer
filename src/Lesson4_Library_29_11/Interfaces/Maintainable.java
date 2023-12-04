@@ -1,6 +1,6 @@
-package Lesson4_Library.Interfaces;
+package Lesson4_Library_29_11.Interfaces;
 
-import Lesson4_Library.Enums.ItemCondition;
+import Lesson4_Library_29_11.Enums.ItemCondition;
 
 public interface Maintainable {
     void repairItem();
