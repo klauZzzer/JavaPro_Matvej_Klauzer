@@ -1,4 +1,4 @@
-package Lesson_5_HashMap_04_12;
+package Lesson5_HashMap_04_12;
 
 import java.util.ArrayList;
 import java.util.HashMap;
